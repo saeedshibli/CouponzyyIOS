@@ -1,0 +1,6 @@
+framework module Pods_couponzy7_7_couponzy7_7UITests {
+  umbrella header "Pods-couponzy7.7-couponzy7.7UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
